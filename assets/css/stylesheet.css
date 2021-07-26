@@ -6,3 +6,17 @@ body {
   color: #ffffff;
   text-decoration: none;
 }
+
+/* quienes somos */
+#quienes-somos hr{
+  height: 1px;
+}
+
+/* destacados */
+#destacados img {
+  height: 200px;
+}
+
+#destacados .card {
+  border: none;
+}
